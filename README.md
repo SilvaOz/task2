@@ -10,14 +10,6 @@ This exercise is about how to make a grid item take up the space of two columns 
     - lightgreen
     - #faf
 
-## Task 1
-
-* See image below for reference
-* Make the parent element a grid container
-* Set 4 rows and 4 columns of equal size on the container
-
-![Task 1](/images/task1.png)
-
 ## Task 2
 
 * See image below for reference
@@ -26,4 +18,4 @@ This exercise is about how to make a grid item take up the space of two columns 
 * Hint: you should only need to edit the CSS for grid items
 * Hint: it might be useful to define *both* column and row
 
-![Task 2](/images/task2.png)
+![Task 2](/images/Task2.png)
